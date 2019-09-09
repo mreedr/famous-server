@@ -1,0 +1,30 @@
+html {
+    background: #404040;
+}
+
+body {
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    font-family: 'AvenirNext-Medium';
+}
+
+.box-shadow {
+    -webkit-box-shadow: -4px 0px 18px 0px rgba(0,0,0,0.75);
+    -moz-box-shadow: -4px 0px 18px 0px rgba(0,0,0,0.75);
+    box-shadow: -4px 0px 18px 0px rgba(0,0,0,0.75);
+}
+
+i.fa {
+    font-size: 3em;
+    padding: 10px;
+}
+
+.scroll-view-text {
+    font-size: 1em;
+    padding: 20px;
+    font-weight: bold;
+}
